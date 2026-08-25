@@ -6,4 +6,4 @@
 ![Vercel](https://img.shields.io/badge/Vercel-24292F?logo=vercel&logoColor=fff)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-24292F?logo=cloudflare&logoColor=fff)
 
-![LowLevelNotes API](https://api.lowlevelnotes.com/status.svg?v=2)
+![LowLevelNotes API](https://api.lowlevelnotes.com/status.svg?v=1)
