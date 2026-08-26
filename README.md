@@ -7,3 +7,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-24292F?logo=cloudflare&logoColor=fff)
 
 ![LowLevelNotes API](https://api.lowlevelnotes.com/status.svg?v=3)
+
+![LowLevelNotes API](https://api.lowlevelnotes.com/history.svg)
+
+![LowLevelNotes API](https://api.lowlevelnotes.com/stats.svg)
